@@ -15,13 +15,16 @@ personalizado, realista e orientado a projetos.
 ## Organização
 
 - `contexto/perfil-base.md`: informações pessoais reutilizadas nos prompts.
-- `desafios/`: aprendizado, prompt e reflexão de cada dia.
-- `resultados/`: respostas obtidas ao testar os prompts.
+- `conceitos/`: resumos das técnicas estudadas.
+- `desafios/`: registro do aprendizado e reflexão de cada dia.
+- `prompts/`: prompts completos utilizados nos testes.
+- `resultados/diaXX/`: respostas e comparação de cada dia.
+- `templates/`: modelos reutilizáveis para documentação dos desafios.
 
 ## Progresso
 
 - [x] Dia 1 — Papel, Tarefa e Contexto (PTC)
-- [ ] Dia 2
+- [x] Dia 2 — Role Prompting
 - [ ] Dia 3
 - [ ] Dia 4
 - [ ] Dia 5
