@@ -19,14 +19,16 @@ personalizado, realista e orientado a projetos.
 - `desafios/`: registro do aprendizado e reflexão de cada dia.
 - `prompts/`: prompts completos utilizados nos testes.
 - `resultados/diaXX/`: respostas e comparação de cada dia.
+- `resultados/diaXX/testes/`: planos para execução manual e critérios de aceite.
 - `templates/`: modelos reutilizáveis para documentação dos desafios.
+- `PLANO-REFORMULACAO-E-IMPLANTACAO.md`: diagnóstico e sequência de implantação.
 
 ## Progresso
 
 - [x] Dia 1 — Papel, Tarefa e Contexto (PTC)
 - [x] Dia 2 — Role Prompting
-- [ ] Dia 3
-- [ ] Dia 4
+- [x] Dia 3 — Few-Shot Prompting
+- [x] Dia 4 — Análise estruturada em etapas (estrutura pronta; resultado pendente)
 - [ ] Dia 5
 - [ ] Dia 6
 - [ ] Dia 7 — Mega-prompt

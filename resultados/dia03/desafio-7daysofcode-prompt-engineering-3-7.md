@@ -20,18 +20,18 @@ Produzir, com a persona da Marina criada no Dia 2 e o Perfil Base de Contexto do
 
 ## Tarefas
 
-- [ ] Recuperar o Perfil Base de Contexto criado no Dia 1.
-- [ ] Recuperar a persona da Marina e a lista priorizada de hard skills do Dia 2.
-- [ ] Validar a persona: experiência, método e duas regras negativas.
-- [ ] Identificar e registrar a prioridade nº 1 da lista de hard skills.
-- [ ] Definir o padrão do plano: título, meta, segunda a sexta e entregável.
-- [ ] Preparar de 2 a 4 exemplos de entrada e saída sobre temas diferentes da prioridade escolhida.
-- [ ] Montar o prompt Few-Shot com PAPEL, TAREFA, EXEMPLOS, ENTRADA, CONTEXTO e SAÍDA.
-- [ ] Executar o prompt e gerar a semana de estudos.
-- [ ] Conferir se a saída preserva exatamente a estrutura e o número de linhas dos exemplos.
-- [ ] Se o formato variar, acrescentar: “Mantenha exatamente a estrutura dos exemplos, inclusive o número de linhas.”
-- [ ] Revisar se a meta é verificável, as atividades são executáveis e o entregável é concreto.
-- [ ] Salvar o prompt, os exemplos e o plano final para reutilização no Dia 7.
+- [x] Recuperar o Perfil Base de Contexto criado no Dia 1.
+- [x] Recuperar a persona da Marina e a lista priorizada de hard skills do Dia 2.
+- [x] Validar a persona: experiência, método e duas regras negativas.
+- [x] Identificar e registrar a prioridade nº 1 da lista de hard skills.
+- [x] Definir o padrão do plano: título, meta, segunda a sexta e entregável.
+- [x] Preparar de 2 a 4 exemplos de entrada e saída sobre temas diferentes da prioridade escolhida.
+- [x] Montar o prompt Few-Shot com PAPEL, TAREFA, EXEMPLOS, ENTRADA, CONTEXTO e SAÍDA.
+- [x] Executar o prompt e gerar a semana de estudos.
+- [x] Conferir se a saída preserva exatamente a estrutura e o número de linhas dos exemplos.
+- [x] Confirmar que não foi necessário corrigir o formato após a execução.
+- [x] Revisar se a meta é verificável, as atividades são executáveis e o entregável é concreto.
+- [x] Salvar o prompt, os exemplos e o plano final para reutilização no Dia 7.
 - [ ] Opcional: publicar o resultado no GitHub e compartilhar com as hashtags #7DaysOfCode e #feedback7DoC.
 
 ## Modelo de prompt
