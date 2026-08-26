@@ -29,7 +29,7 @@ personalizado, realista e orientado a projetos.
 - [x] Dia 2 — Role Prompting
 - [x] Dia 3 — Few-Shot Prompting
 - [x] Dia 4 — Análise estruturada em etapas (concluído)
-- [ ] Dia 5
+- [x] Dia 5 — Delimitadores e restrições (concluído)
 - [ ] Dia 6
 - [ ] Dia 7 — Mega-prompt
 
