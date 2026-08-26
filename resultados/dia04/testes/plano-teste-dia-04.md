@@ -15,7 +15,7 @@ Verificar se o prompt compara o dilema de forma auditável antes de recomendar.
 
 - [ ] Há exatamente cinco blocos na ordem solicitada.
 - [ ] A recomendação não aparece nos quatro primeiros blocos.
-- [ ] Todos os seis critérios são usados na comparação.
+- [ ] Todos os sete critérios são usados na comparação.
 - [ ] A tabela contém prós, contras e avaliação das duas opções.
 - [ ] As informações faltantes poderiam mudar a decisão e têm forma de obtenção.
 - [ ] A recomendação tem no máximo cinco linhas e uma condição de revisão.

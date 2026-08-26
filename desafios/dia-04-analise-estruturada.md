@@ -16,15 +16,18 @@ Devo aprofundar Python e Django até concluir o primeiro sistema de portfólio o
 
 ## Resultado recebido
 
-Pendente de execução conforme o [plano de teste](../resultados/dia04/testes/plano-teste-dia-04.md).
+[Resultado do prompt do Dia 4](../resultados/dia04/resultado-modelo.md), avaliado conforme o [plano de teste](../resultados/dia04/testes/plano-teste-dia-04.md).
 
 ## O que funcionou
 
-Pendente de avaliação.
+- A resposta respeitou os cinco blocos solicitados e não antecipou a recomendação.
+- A comparação usou os sete critérios definidos: tempo disponível, aderência ao objetivo, custo de troca, valor para o portfólio, mercado, motivação e conhecimento já construído.
+- A recomendação ficou vinculada aos critérios e incluiu uma condição objetiva para revisar a decisão.
 
 ## O que precisa melhorar
 
-Pendente de avaliação.
+- Em testes futuros, executar o mesmo prompt em outro modelo para comparar consistência.
+- Ao avançar no projeto real, substituir suposições de mercado por evidências de vagas e demandas de pequenos negócios.
 
 ## Parte que será reaproveitada no mega-prompt
 

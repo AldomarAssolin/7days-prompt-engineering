@@ -39,7 +39,7 @@ Reformule a dúvida em até três linhas, sem antecipar a recomendação.
 
 ### 2. Critérios relevantes
 
-Liste tempo disponível, aderência ao objetivo, custo de troca, valor para o portfólio, motivação e conhecimento já construído. Explique em uma frase por que cada critério importa.
+Liste tempo disponível, aderência ao objetivo, custo de troca, valor para o portfólio, mercado, motivação e conhecimento já construído. Explique em uma frase por que cada critério importa.
 
 ### 3. Comparação das opções
 
