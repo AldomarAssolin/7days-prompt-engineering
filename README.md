@@ -28,7 +28,7 @@ personalizado, realista e orientado a projetos.
 - [x] Dia 1 — Papel, Tarefa e Contexto (PTC)
 - [x] Dia 2 — Role Prompting
 - [x] Dia 3 — Few-Shot Prompting
-- [x] Dia 4 — Análise estruturada em etapas (estrutura pronta; resultado pendente)
+- [x] Dia 4 — Análise estruturada em etapas (concluído)
 - [ ] Dia 5
 - [ ] Dia 6
 - [ ] Dia 7 — Mega-prompt
