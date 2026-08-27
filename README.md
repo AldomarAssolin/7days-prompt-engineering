@@ -15,6 +15,7 @@ personalizado, realista e orientado a projetos.
 ## Organização
 
 - `contexto/perfil-base.md`: informações pessoais reutilizadas nos prompts.
+- `contexto/vaga-alvo-dia-06.md`: vaga reutilizável para análise de gaps.
 - `conceitos/`: resumos das técnicas estudadas.
 - `desafios/`: registro do aprendizado e reflexão de cada dia.
 - `prompts/`: prompts completos utilizados nos testes.
@@ -30,7 +31,7 @@ personalizado, realista e orientado a projetos.
 - [x] Dia 3 — Few-Shot Prompting
 - [x] Dia 4 — Análise estruturada em etapas (concluído)
 - [x] Dia 5 — Delimitadores e restrições (concluído)
-- [ ] Dia 6
+- [x] Dia 6 — Contexto longo (concluído)
 - [ ] Dia 7 — Mega-prompt
 
 ## Rotina

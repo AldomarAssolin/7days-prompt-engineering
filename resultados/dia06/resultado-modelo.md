@@ -1,0 +1,41 @@
+# Resultado do modelo — Dia 6
+
+## Dados da execução
+
+- Modelo e versão: GPT-5.5
+- Data: 27/08/2026
+- Conversa nova: sim
+- Memória e instruções adicionais: sem contexto ou histórico
+
+## Resultado
+
+## JÁ TENHO
+
+| Requisito                                         | Situação                                            | Evidência / Observação                                                                                                                                                                                                                                                |
+| ------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Python                                            | **Atende parcialmente**                             | O perfil afirma: “**Já estudei Python**” e o plano recomenda “**Consolide Python dentro do Django**”. Isso comprova contato/estudo, mas não comprova os **1 ano de experiência** exigidos pela vaga.                                                                  |
+| Banco de dados                                    | **Atende como conhecimento complementar**           | O perfil afirma: “**Já estudei Python, banco de dados, HTML, CSS e JavaScript**”. A vaga não exige banco de dados como requisito explícito, portanto não é um requisito obrigatório atendido, mas é conhecimento relevante para as atividades.                        |
+| Capacidade de desenvolver aplicações/sistemas     | **Atende parcialmente**                             | O objetivo declarado é “**Aprender a planejar, desenvolver, testar e publicar sites e pequenos sistemas web**”. Há contato com desenvolvimento, mas o próprio perfil reconhece que ainda precisa “**consolidar esses conhecimentos por meio de projetos completos**”. |
+| Aprendizado de novas tecnologias                  | **Requer confirmação**                              | A vaga exige “capacidade de resolver problemas de forma eficaz e aprender novas tecnologias rapidamente”. O perfil demonstra uma estratégia de aprendizado por projetos, mas não comprova explicitamente essa capacidade.                                             |
+| Experiência profissional em contexto de indústria | **Transferível, não comprova requisito específico** | O perfil informa: “**Trabalho na indústria e estou construindo uma transição gradual para atuar com tecnologia e soluções digitais**”. É experiência profissional transferível, mas não equivale à experiência profissional de desenvolvimento exigida pela vaga.     |
+
+## GAPS CRÍTICOS
+
+| Requisito                                                            | Situação                        | Evidência / Observação                                                                                                                                                                                                                                                                                         |
+| -------------------------------------------------------------------- | ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1 ano de experiência com Python**                                  | **Não atende / não comprovado** | A vaga exige explicitamente “**1 ano de experiência com Python**”. O perfil informa apenas “**Já estudei Python**”. Não há informação que comprove um ano de experiência profissional ou prática equivalente. Este é o gap mais bloqueante porque é um requisito objetivo da vaga.                             |
+| **Bom entendimento de algoritmos básicos e estruturas de dados**     | **Não comprovado**              | A vaga exige explicitamente esse conhecimento. O perfil não menciona algoritmos nem estruturas de dados. Portanto, não é possível afirmar que o requisito seja atendido.                                                                                                                                       |
+| **Conhecimento básico de controle de versão, preferencialmente Git** | **Não comprovado**              | A vaga exige conhecimento básico de controle de versão. O perfil não menciona Git nem outra ferramenta de controle de versão. O plano do Dia 1 apenas diz que “**Git, testes básicos e publicação entram no fluxo dos projetos**”, o que representa uma recomendação futura, não uma habilidade já comprovada. |
+| **Bom nível de inglês**                                              | **Não comprovado**              | A vaga exige explicitamente “**Bom nível de inglês**”. O perfil não informa nível de inglês, experiência utilizando o idioma ou comunicação profissional em inglês.                                                                                                                                            |
+| **Resolução eficaz de problemas**                                    | **Requer confirmação**          | A vaga lista “**Capacidade de resolver problemas de forma eficaz**”. O perfil não apresenta evidência direta dessa competência aplicada ao desenvolvimento de software. A experiência na indústria pode ser transferível, mas não comprova o requisito específico de desenvolvimento.                          |
+
+## GAPS SECUNDÁRIOS
+
+| Requisito                                        | Situação                             | Evidência / Observação                                                                                                                                                                                                             |
+| ------------------------------------------------ | ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Código Python limpo, eficiente e bem documentado | **Não comprovado**                   | Aparece como **responsabilidade da vaga**, não como requisito explícito de entrada. O perfil afirma que ainda precisa consolidar conhecimentos por meio de projetos completos, portanto não há evidência de domínio dessa prática. |
+| Participação em code reviews                     | **Não comprovado**                   | É uma **responsabilidade da vaga**, não um requisito explícito. O perfil não menciona experiência com revisão de código ou trabalho em equipe de desenvolvimento.                                                                  |
+| Colaboração em equipes de desenvolvimento        | **Não comprovado**                   | É uma **responsabilidade da vaga**. O perfil informa experiência na indústria, mas não especifica experiência colaborativa em equipes de desenvolvimento de software.                                                              |
+| Debugging, correção de bugs e otimização         | **Não comprovado**                   | São **responsabilidades da vaga**. O perfil não apresenta projetos concluídos nos quais essas atividades tenham sido realizadas.                                                                                                   |
+| Conhecimento de frameworks e bibliotecas Python  | **Gap parcial / requer confirmação** | A vaga menciona “frameworks principais” e atualização sobre frameworks e bibliotecas Python. O perfil recomenda aprender **Django**, mas não afirma experiência prévia com Django ou outros frameworks Python.                     |
+| Participação em reuniões e discussões técnicas   | **Não comprovado**                   | É uma **responsabilidade da vaga**. Não há evidência no perfil de participação em reuniões ou discussões de equipes de desenvolvimento.                                                                                            |
