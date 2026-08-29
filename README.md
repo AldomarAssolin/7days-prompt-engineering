@@ -33,7 +33,7 @@ personalizado, realista e orientado a projetos.
 - [x] Dia 4 — Análise estruturada em etapas (concluído)
 - [x] Dia 5 — Delimitadores e restrições (concluído)
 - [x] Dia 6 — Contexto longo (concluído)
-- [ ] Dia 7 — Mega-prompt
+- [x] Dia 7 — Mega-prompt
 
 ## Rotina
 
