@@ -14,8 +14,9 @@ personalizado, realista e orientado a projetos.
 
 ## Organização
 
-- `contexto/perfil-base.md`: informações pessoais reutilizadas nos prompts.
-- `contexto/vaga-alvo-dia-06.md`: vaga reutilizável para análise de gaps.
+- `contexto/perfil-base.md`: fatos pessoais reutilizados nos prompts.
+- `contexto/derivados/`: diagnósticos e planos gerados por modelo, usados como contexto derivado.
+- `contexto/vagas/`: vagas-alvo coletadas para análises de gaps.
 - `conceitos/`: resumos das técnicas estudadas.
 - `desafios/`: registro do aprendizado e reflexão de cada dia.
 - `prompts/`: prompts completos utilizados nos testes.
